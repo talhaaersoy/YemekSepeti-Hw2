@@ -9,10 +9,6 @@ sistemde  interface kullandım ilerleyen zamanalarda yeni bir içeçek eklenirse
 
 
 2. controller coffee controller menüye kahve eklemeyi ve listelemeyi yapıyor.buraya bir role access attribute ekledim ve ekleme işlemini sadece "director" yapabiliyor.
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/main
 
 
 
